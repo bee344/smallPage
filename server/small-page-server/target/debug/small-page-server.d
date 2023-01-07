@@ -1,1 +1,1 @@
-/home/alberto/Documents/smallPage/server/small-page-server/target/debug/small-page-server: /home/alberto/Documents/smallPage/server/small-page-server/src/main.rs
+/home/alberto/Documents/smallPage/server/small-page-server/target/debug/small-page-server: /home/alberto/Documents/smallPage/server/small-page-server/src/lib.rs /home/alberto/Documents/smallPage/server/small-page-server/src/main.rs

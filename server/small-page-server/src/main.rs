@@ -1,4 +1,4 @@
-use server::ThreadPool;
+use small_page_server::ThreadPool;
 use std::{
     fs,
     io::{prelude::*, BufReader},
